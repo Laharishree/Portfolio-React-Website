@@ -1,0 +1,108 @@
+*{
+    font-family: Arial, sans-serif;
+}
+.intro{ 
+    text-align: center;
+    align-items: center;
+    width:100%;
+   
+    
+}
+.intro h1{
+    font-size: 50px;
+}
+.intro p{
+    font-size: 30px;
+}
+.intro img{
+    width:100%;
+    height:50vh
+}
+.card{
+
+    background-color: rgb(110, 67, 237);
+    text-align: center;
+    align-items: center;
+    color: white;
+    width: 100%;
+    height: 30vh;
+
+}
+.center{
+    text-align: center;
+    align-items: center;
+   
+}
+.portfolio-img img{
+    border-radius: 50%;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+
+}
+.card-display{
+    background-color: white;
+display: inline-block;
+width: 45%;
+margin-top: -20px;
+margin-left: 20px ;
+text-align: center;
+border-radius: 2%;
+border-style:ridge ;
+}
+.card-display h2{
+    
+    color: rgb(110, 7, 243);
+
+}
+.footer {
+ 
+    left: 0;
+    bottom: 0;
+    border-bottom:-10px;
+   
+    width: 100%;
+    
+    background-color:rgb(110, 7, 243);
+    color: white;
+    text-align: center;
+  }
+  .works{
+    align-items: center;
+    text-align: center;
+  }
+  .collab{
+    align-items: center;
+    text-align: center;
+  }
+  .contact{
+    background-color: white;
+    border-color: rgb(110, 7, 243);
+    border-radius: 10%;
+    width:300px;
+    height: 50px;
+    font-weight: 500px;
+  }
+  .contact a{
+    text-decoration: None;
+  }
+  .WorkImg{
+    display: flexbox;
+  }
+  .WorkImg img{
+ 
+    width:500px;
+    height: 500px;
+  }
+  .Button{
+    background-color: white;
+    border-color: rgb(110, 7, 243);
+    border-radius: 10%;
+    width:300px;
+    height: 50px;
+    font-weight: 500px;
+  }
+  .Start table{
+width: 100%;
+
+  }
